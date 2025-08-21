@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyA_gFxt3m8bSwLxKa3jkIM3WeOeLs8Ltpc',
     appId: '1:805913972339:android:3fc167c6833b6930f9a406',
     messagingSenderId: '805913972339',
-    projectId: 'traveler-57e1b',
+    projectId: '',
     storageBucket: 'traveler-57e1b.appspot.com',
   );
 
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '805913972339',
     projectId: 'traveler-57e1b',
     storageBucket: 'traveler-57e1b.appspot.com',
-    iosBundleId: 'com.travel.traveler',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
     appId: '1:805913972339:ios:439face4d321f088f9a406',
     messagingSenderId: '805913972339',
     projectId: 'traveler-57e1b',
-    storageBucket: 'traveler-57e1b.appspot.com',
+    storageBucket: '',
     iosBundleId: 'com.travel.traveler',
   );
 
