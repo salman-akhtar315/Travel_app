@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>805913972339-4t9df84j3vs7nukjqsjovnpnqtvf4joa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.805913972339-4t9df84j3vs7nukjqsjovnpnqtvf4joa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>805913972339-fli1u5hf9epmcp0rakrh84li59q02h2k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOdQ8ew6sjQblfTQWtHwZEQlr5wyYeiD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>805913972339</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.travel.traveler</string>
+	<key>PROJECT_ID</key>
+	<string>traveler-57e1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>traveler-57e1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:805913972339:ios:439face4d321f088f9a406</string>
+</dict>
+</plist>
